@@ -1,2 +1,2 @@
-# agent-subnet
+# agent-subnet 🤖
 Agent subnet experiments for bittensor
